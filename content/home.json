@@ -18,9 +18,19 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
+          "img": "/img/uploads/ho-2-1-.png",
+          "alt": "Escritório 2",
+          "mobile_img": ""
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/ho-3-1-.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/ho-4-1-.png"
         }
       ]
     },
