@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.842a4c1e67fd9f93d32867144e172118.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.a7ee4bb24b9adaf29af8eae6d1ad86bf.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.da21b6778fd6fb35b377eddc3c76830e.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.d854f1b8e658afd34b9cda8fa1041111.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.8883d440dc7caf3b617f9428c44cb707.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "trampardecasa",
+  "short_name": "Trampar de Casa",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Trampar de Casa",
+  "background_color": "#46459b",
+  "theme_color": "#46459b"
+}
