@@ -1,12 +1,12 @@
 {
   "domain": "trampardecasa.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ffffff",
+  "primary_color": "#46459b",
   "theme": {
     "bootswatch": "slate",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#46459b",
   "repository": "ecomplus-stores/trampardecasa",
   "logo": "/img/uploads/trampar-de-casa-1-..png",
   "name": "trampardecasa",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/logo.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#46459b",
+  "secondary_color": "#ffffff",
   "icon": "/img/uploads/logo.png",
   "store_id": 51510,
   "description": "Trampar de Casa",
