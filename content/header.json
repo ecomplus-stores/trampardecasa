@@ -8,7 +8,9 @@
   "centralized_logo": false,
   "marketing_stripe": {
     "text": "",
-    "link": ""
+    "link": "",
+    "background": "#46459b",
+    "color": "#000000"
   },
   "alphabetical_order_submenu": false,
   "name_all_departments": "",
