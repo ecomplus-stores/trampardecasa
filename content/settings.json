@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#46459b",
   "theme": {
-    "bootswatch": "slate",
-    "custom": "_"
+    "bootswatch": "_",
+    "custom": "niche-game"
   },
   "bg_color": "#46459b",
   "repository": "ecomplus-stores/trampardecasa",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/logo.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#ffffff",
+  "secondary_color": "#46459b",
   "icon": "/img/uploads/logo.png",
   "store_id": 51510,
   "description": "Trampar de Casa",
