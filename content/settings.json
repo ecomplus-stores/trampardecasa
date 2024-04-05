@@ -1,9 +1,9 @@
 {
   "domain": "trampardecasa.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#4f45e4",
+  "primary_color": "#ffffff",
   "theme": {
-    "bootswatch": "cerulean",
+    "bootswatch": "slate",
     "custom": "_"
   },
   "bg_color": "#ffffff",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/logo.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#121111",
+  "secondary_color": "#46459b",
   "icon": "/img/uploads/logo.png",
   "store_id": 51510,
   "description": "Trampar de Casa",
